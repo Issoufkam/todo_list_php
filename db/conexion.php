@@ -2,8 +2,8 @@
 
 $host = "localhost";
 //$db = "aws";
-$user = "root";
-$mp = "";
+$user = "id19889089_kam";
+$mp = "YM4b0ldBLwIf[-aO";
 
 try {
     $connexion = new PDO("mysql:host=$host;dbname=aws", $user, $mp);
